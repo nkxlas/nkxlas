@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nicolas (nk)
 
-<!--
-**enekinha/enekinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack, 19 anos.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases:** MySQL • MongoDB  
+**Languages:** Java • TypeScript  
+**Frontend:** React • Next.js • TailwindCSS  
+**Cloud:** AWS  
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enekinha&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enekinha&layout=compact&theme=minimal&hide_border=true&hide_title=true)
+
+---
+
+*Sempre aprendendo algo novo* ✨
