@@ -11,9 +11,9 @@ Desenvolvedor Full Stack, 19 anos.
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enekinha&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkxlas&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enekinha&layout=compact&theme=minimal&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkxlas&layout=compact&theme=minimal&hide_border=true&hide_title=true)
 
 ---
 
